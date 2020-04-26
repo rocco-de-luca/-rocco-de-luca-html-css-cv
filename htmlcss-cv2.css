@@ -1,0 +1,60 @@
+/* STYLES GENERALI*/
+
+body {
+ text-align: center;
+    background-color: grey;
+  }
+  
+  #contenitore{
+  width: 1200;
+  margin: auto;
+  }
+  
+  /*header*/
+  
+  h1{
+    color: red;
+    font-size: 40px;
+     font-family: 'Indie Flower', cursive;
+     background-color: white;
+  }
+  #ruolo{
+    color: white;
+    font-size: 32px;
+    background-color: blue;
+  }
+  
+  .img-cv {
+  
+    width: 95px;
+    height: 95px;
+    border-radius: 50%;
+    margin-top:1.950px;
+    margin-bottom: 1.388px;
+    margin-left: 1.230;
+    margin-right: 595;
+    }
+  
+  
+  /* esperienze lavorative*/
+  
+  .titolosezione{
+    color: orange;
+     font-family: 'Indie Flower', cursive;
+     background-color: white;
+  }
+  p{
+      text-align: center;
+  }
+  .titolo-esperienza{
+    color: blue;
+     font-family: 'Indie Flower', cursive;
+     background-color: white;
+  }
+  /*Hobby*/
+  .titolo-Hobby {
+    color: green;
+     font-family: 'Indie Flower', cursive;
+     background-color: white;
+  }
+  

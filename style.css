@@ -1,0 +1,51 @@
+/* STYLES GENERALI*/
+body{
+  margin: 0;
+}
+
+  header{
+    background-color: lightgray;
+    text-align: center;
+    border-bottom: 2px solid orange;
+  }
+
+  main{
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+
+  /*sezione styles */
+  .main-title{
+    color: orange;
+  }
+
+  .sub-title{
+    font-style: italic;
+  }
+  
+  #contenitore{
+  width: 1200;
+  margin: auto;
+  }
+  
+  /*header*/
+  
+
+  #ruolo{
+    color: blue;
+    font-size: 32px;
+  }
+  
+  /* esperienze lavorative*/
+  
+  .titolosezione{
+    color: orange;
+  }
+  .titolo-esperienza{
+    color: blue;
+  }
+  /*Hobby*/
+  .titolo-Hobby {
+    color: green;
+  }
+  
